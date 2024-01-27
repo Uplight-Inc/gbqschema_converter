@@ -7,6 +7,6 @@ metadata:
   annotations:
     github.com/project-slug: Uplight-Inc/gbqschema_converter
 spec:
-  owner: group:Uplight-Inc/SAG
-  type: unspecified
-  lifecycle: unspecified
+  owner: group:Uplight-Inc/apollo
+  type: library
+  lifecycle: production
